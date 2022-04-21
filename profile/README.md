@@ -4,3 +4,6 @@
 available in the market that works with a CAN-based protocol, for example, UDS, VW TP2.0 etc., you only require an EasyBox device and a 
 reliable network connection (Ethernet works best), and that's it!
 
+Reach us:
+* 👥 [Facebook](https://www.facebook.com/Easy-Box-462308693939133/)
+* 📧 <a href="mailto: support@easyboxcar.com"> Email</a>
